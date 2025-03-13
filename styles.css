@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #99B2DD;
-    color: #2C3E50; /* Dark Blue */
+    color: #484645;
 }
 
 /* Header */
@@ -26,14 +26,14 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background: white;
+    background: #F9DEC9;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 /* Activity Section */
 .activity h2 {
-    color: #A33A2A; /* Brick Red */
+    color: #484645;
 }
 
 .activity p, .activity ol {
